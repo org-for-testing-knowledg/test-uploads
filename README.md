@@ -5,7 +5,7 @@ hi, i am changing things wowwww
 Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
 
 - Guide pages some more updates wow hehe
-- some stuff in here wow works??? changing things wow it works!!!
+- some stuff in here wow works??? changing things wow it works!!! naaah
 - Navigation xxx cccc
 - Customizations
 - API Reference pages
