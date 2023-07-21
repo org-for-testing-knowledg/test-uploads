@@ -4,9 +4,9 @@ hi
 
 Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
 
-- Guide pages
+- Guide pages some more updates wow hehe
 - some stuff in here wow works??? changing things wow it works!!!
-- Navigation xxx
+- Navigation xxx cccc
 - Customizations
 - API Reference pages
 - Use of popular components
