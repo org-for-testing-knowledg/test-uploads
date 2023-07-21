@@ -5,12 +5,13 @@ hi
 Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
 
 - Guide pages
-- Navigation
+- some stuff in here wow works??? changing things wow it works!!!
+- Navigation xxx
 - Customizations
 - API Reference pages
 - Use of popular components
 
-### 👩‍💻 Development
+### 👩‍💻 Development something morecccxx more what????
 
 Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command
 
