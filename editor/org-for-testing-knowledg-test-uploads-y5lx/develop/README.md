@@ -9,7 +9,7 @@ Click on `Use this template` to copy the Mintlify starter kit. The starter kit c
 - Navigation xxx
 - Customizations
 - API Reference pages
-- Use of popular components xxx
+- Use of popular components
 
 ### 👩‍💻 Development something morecccxx more xxx
 
