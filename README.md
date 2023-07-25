@@ -1,6 +1,6 @@
 # Mintlify Starter Kit
 
-hi, i am changing things  x
+hi, i am changing things  xxxx
 
 Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
 
