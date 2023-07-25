@@ -10,7 +10,7 @@ Click on `Use this template` to copy the Mintlify starter kit. The starter kit c
 
 - Navigation xxx cccc
 
-- Customizations x
+- Customizations x x
 
 - API Reference pages
 
