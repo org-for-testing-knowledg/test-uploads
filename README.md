@@ -4,19 +4,19 @@ hi, i am changing things wowwww
 
 Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
 
-- Guide pages some more updates wow hehe
+-   Guide pages some more updates wow hehe
 
-- some stuff in here wow works??? changing things wow it works!!! naaah
+-   some stuff in here wow works??? changing things wow it works!!! naaah
 
-- Navigation xxx cccc
+-   Navigation xxx cccc
 
-- Customizations
+-   Customizations
 
-- API Reference pages
+-   API Reference pages
 
-- Use of popular components some other stuff in here loool what??
+-   Use of popular components some other stuff in here loool what??
 
-- sdfdsf
+-   sdfdsf
 
 > sdfsdf
 
@@ -42,5 +42,7 @@ You can also preview changes using PRs, which generates a preview link of the do
 
 #### Troubleshooting
 
-- Mintlify dev isn't running - Run `mintlify install` it'll re-install dependencies.
-- Page loads as a 404 - Make sure you are running in a folder with `mint.json`
+-   Mintlify dev isn't running - Run `mintlify install` it'll re-install dependencies.
+-   Page loads as a 404 - Make sure you are running in a folder with `mint.json`
+
+from github
