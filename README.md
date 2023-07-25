@@ -14,7 +14,7 @@ Click on `Use this template` to copy the Mintlify starter kit. The starter kit c
 
 - API Reference pages
 
-- Use of popular components
+- Use of popular components some other stuff in here
 
 - sdfdsf
 
