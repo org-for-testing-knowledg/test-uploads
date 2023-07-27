@@ -44,9 +44,7 @@ You can also preview changes using PRs, which generates a preview link of the do
 
 #### Troubleshooting
 
-from the editor 
+from the editor xxxxx
 
 - Mintlify dev isn't running - Run `mintlify install` it'll re-install dependencies.
 - Page loads as a 404 - Make sure you are running in a folder with `mint.json`
-
-from github
