@@ -38,6 +38,8 @@ mintlify dev
 
 ### 😎 Publishing Changes
 
+from editor
+
 Changes will be deployed to production automatically after pushing to the default branch.
 
 You can also preview changes using PRs, which generates a preview link of the docs.
