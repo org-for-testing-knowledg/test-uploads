@@ -57,4 +57,4 @@ what
 
 dxxx more
 
-\## Setting up  The first step to world-class documentation is setting up your editing environnments.  &lt;CardGroup cols={2}&gt;   &lt;Card     title="Edit Your Docs"     icon="pen-to-square"     href="https://mintlify.com/docs/quickstart"   &gt;     Get your docs set up locally for easy development.   &lt;/Card&gt;   &lt;Card     title="Preview Changes"     icon="image"     href="https://mintlify.com/docs/development"   &gt;     Preview your changes before you push to make sure they're perfect.   &lt;/Card&gt; &lt;/CardGroup&gt;
+## 
