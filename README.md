@@ -12,6 +12,8 @@ Click on `Use this template` to copy the Mintlify starter kit. The starter kit c
 
 - Customizations x xxxx
 
+- ciao 
+
 - API Reference pages
 
 - Use of popular components some other stuff in here loool what?? xx
@@ -21,6 +23,13 @@ Click on `Use this template` to copy the Mintlify starter kit. The starter kit c
 > sdfsdfxxx
 >
 > xxxx
+
+```
+ciao
+io sono verde
+
+asdfdfs
+```
 
 ### 👩‍💻 Development something morecccxx more what????
 
@@ -58,3 +67,7 @@ what
 dxxx more
 
 ## 
+
+some changes 
+
+in here
