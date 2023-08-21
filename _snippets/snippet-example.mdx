@@ -5,7 +5,13 @@ The `prosemirror-commands` module offers various editing commands, ranging from 
 ```
 ```
 
-The `prosemirror-commands` module provides a range of editing commands. These include simple commands like a modified version of the `deleteSelection` command, as well as more intricate commands such as {joinBackward}.
+The `prosemirror-commands` module is a powerful tool for handling various editing commands in ProseMirror. One of the basic commands it provides is a modified version of the `deleteSelection` command. This command allows you to delete the currently selected content in the editor.
+
+In addition to simple commands like `deleteSelection`, the `prosemirror-commands` module also offers more intricate commands such as `{joinBackward}`. The `{joinBackward}` command allows you to join the current line with the previous line by removing the line break between them. This can be useful for creating a more fluid editing experience, especially when working with structured documents.
+
+To use these commands, you need to import the `prosemirror-commands` module and bind the desired commands to specific keybindings or user interactions. For example, you can bind the `deleteSelection` command to the delete key, and the `{joinBackward}` command to a custom key combination.
+
+By leveraging the commands provided by the `prosemirror-commands` module, you can enhance the editing capabilities of your ProseMirror editor and create a more intuitive and efficient editing experience for your users. Whether you need to handle simple deletions or more complex joining operations, this module has got you covered.
 
 hich implements the block-joining behavior that should happen when you press backspace at the start of a textblock. It also comes with a basic keymap that binds a number of schema-agnostic commands to the keys that are usually used for them.
 
