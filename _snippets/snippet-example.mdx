@@ -7,10 +7,6 @@ The `prosemirror-commands` module offers various editing commands, ranging from 
 
 The `prosemirror-commands` module provides a range of editing commands. These include simple commands like a modified version of the `deleteSelection` command, as well as more intricate commands such as {joinBackward}.
 
-The `prosemirror-commands` module offers various editing commands, ranging from simple ones like a variation of the `deleteSelection` command, to more complex commands like {joinBackward}, which
-
-dfThe `prosemirror-commands` module offers various editing commands, ranging from simple ones like a variation of the `deleteSelection` command, to more complex commands like {joinBackward}, which
-
 hich implements the block-joining behavior that should happen when you press backspace at the start of a textblock. It also comes with a basic keymap that binds a number of schema-agnostic commands to the keys that are usually used for them.
 
 When possible, different behavior, even when usually bound to a single key, is put in different commands. The utility function {chainCommands} can be used to combine a number of commands—they will be tried one after the other until one return true.
