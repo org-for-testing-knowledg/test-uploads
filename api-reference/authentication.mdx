@@ -1,1 +1,13 @@
 For HTML parsing, you could add parse rules, either in your schema or in a custom `clipboardParser` 121 prop. For text, you probably want the \[`clipboardTextParser`\]([http://prosemirror.net/docs/ref/#view.EditorProps.clipboardTextParser 163](http://prosemirror.net/docs/ref/#view.EditorProps.clipboardTextParser)\] prop, which allows you to give a function from the pasted string to a document slice.
+
+Also a bunch of bugs fixes in the latest release:
+
+• Parse @​starting-style rule
+
+• Improve prefixing backdrop-filter and background-clip
+
+• Fix text-size-adjust in custom visitors
+
+• Don't put unknown pseudo elements in an :is()
+
+• Add a freebsd binary
