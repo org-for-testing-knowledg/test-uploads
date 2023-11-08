@@ -4,7 +4,8 @@ hi
 
 Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
 
-![](https://kjfwgvfceqvbwpxdpzhy.supabase.co/storage/v1/object/public/user-uploads/0d2a1d5a-a5e5-4bad-b8aa-2e2e54b57a71/f3d3ad4a-2d3e-4566-8f57-c27a597c4507-Screenshot%202023-11-08%20at%2011.32.07.png)- Guide pages
+![](https://kjfwgvfceqvbwpxdpzhy.supabase.co/storage/v1/object/public/user-uploads/0d2a1d5a-a5e5-4bad-b8aa-2e2e54b57a71/f3d3ad4a-2d3e-4566-8f57-c27a597c4507-Screenshot%202023-11-08%20at%2011.32.07.png)
+- Guide pages
 - Navigation
 - Customizations
 - API Reference pages
