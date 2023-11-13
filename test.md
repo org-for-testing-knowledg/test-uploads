@@ -1,1 +1,0 @@
-[Mintlify CLI](https://www.npmjs.com/package/mintlify)
