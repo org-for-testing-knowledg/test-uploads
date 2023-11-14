@@ -1,5 +1,7 @@
 Hi, i am Tommy. I want to show you how Holocron works, write "ok" below to start!
 
+Hi, i am Tommy. I want to show you how Holocron works, write "ok" below to start!
+
 # Mintlify Starter Kit
 
 hi again hello
@@ -38,5 +40,7 @@ You can also preview changes using PRs, which generates a preview link of the do
 
 - Mintlify dev isn't running - Run `mintlify install` it'll re-install dependencies.
 - Page loads as a 404 - Make sure you are running in a folder with `mint.json`
+
+You took too much time, bye!
 
 You took too much time, bye!
