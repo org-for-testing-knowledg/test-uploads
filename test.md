@@ -15,3 +15,9 @@ Do you want to invite a friend to follow the tutorial together? Type "yes" or "n
 yes
 
 Send[this link](http://localhost:5467/invitation/973c18c84468436396cc7efa4c5b8d35) to your friend, type "done" when you are ready to continue
+
+done
+
+Holocron supports MDX, MDX is a superset of markdown, it allows you to embed React components in your markdown
+
+Try creating an MDX CardGroup component using the slash command, type / and cardgroup
