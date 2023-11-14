@@ -21,3 +21,5 @@ done
 Holocron supports MDX, MDX is a superset of markdown, it allows you to embed React components in your markdown
 
 Try creating an MDX CardGroup component using the slash command, type / and cardgroup
+
+You took too much time, bye!
