@@ -1,4 +1,4 @@
-Hi, i am Tommy. I want to show you how Holocron works, write "ok" below to start!
+Hi, i am Tommy. I want to show you how Holocron works, write "ok" below to start! i am Tommy. I want to show you how Holocron works, write "ok" below to start!
 
 Hi, i am Tommy. I want to show you how Holocron works, write "ok" below to start!
 
@@ -43,4 +43,4 @@ You can also preview changes using PRs, which generates a preview link of the do
 
 You took too much time, bye!
 
-You took too much time, bye!
+You took too much time, bye! took too much time, bye!
